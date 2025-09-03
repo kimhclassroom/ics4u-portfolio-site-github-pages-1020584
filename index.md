@@ -7,7 +7,9 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+- I've learned/used HTML, Python, and Java.
+- I hope to strengthen my skills in Java.
+- One of my hobbies include reading, my favourite genre is fantasy.
 
 ---
 *Update this page by editing `index.md` in your repository.*
