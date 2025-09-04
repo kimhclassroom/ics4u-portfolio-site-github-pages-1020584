@@ -9,7 +9,7 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ## About me
 - I've learned/used HTML, Python, and Java.
 - I hope to strengthen my skills in Java.
-- One of my hobbies include reading, my favourite genres are fantasy and historical fiction.
+- One of my favourite hobbies are reading, my favourite genres are fantasy and historical fiction.
 
 ![dog in a house that's on fire](./assets/picture2.png)
 ---
