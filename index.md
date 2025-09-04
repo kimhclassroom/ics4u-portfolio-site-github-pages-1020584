@@ -1,4 +1,4 @@
-# Hi, I'm <Your Name>
+# Hi, I'm Nicole :)
 Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflections.
 
 ## Highlights
@@ -7,7 +7,10 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - 📝 Blog/Reflection: [Reflection #1](./posts/first_reflection.md)
 
 ## About me
-A short intro (interests, goals, tools I’m learning).
+- I've learned/used HTML, Python, and Java.
+- I hope to strengthen my skills in Java.
+- One of my favourite hobbies are reading, my favourite genres are fantasy and historical fiction.
 
+![dog in a house that's on fire](./assets/picture2.png)
 ---
 *Update this page by editing `index.md` in your repository.*
