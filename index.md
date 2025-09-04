@@ -11,6 +11,6 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 - I hope to strengthen my skills in Java.
 - One of my hobbies include reading, my favourite genres are fantasy and historical fiction.
 
-`![dog in a house that's on fire](./assets/picture.png)`
+![dog in a house that's on fire](./assets/picture.png)
 ---
 *Update this page by editing `index.md` in your repository.*
