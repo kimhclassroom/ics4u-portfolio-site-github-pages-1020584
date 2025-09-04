@@ -1,5 +1,5 @@
 # First Reflection
-[Homepage](index.md)
+[Homepage](./main/index.md)
 What I learned this week (bullets are fine, you may include an image):
 
 - Topic(s):
